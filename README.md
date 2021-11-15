@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/expotao/53420474-b363-4f51-9b73-fa9fd81f80c1/7c3ab081-2ba9-49e2-9549-14cd10eb66e8/_apis/work/boardbadge/f78ab775-5af0-45e2-9a2e-5fed8af0be7c)](https://dev.azure.com/expotao/53420474-b363-4f51-9b73-fa9fd81f80c1/_boards/board/t/7c3ab081-2ba9-49e2-9549-14cd10eb66e8/Microsoft.RequirementCategory)
 this is readme
